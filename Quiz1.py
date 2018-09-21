@@ -23,7 +23,7 @@ plt.xlabel('Value')
 plt.ylabel('Count')
 plt.show
 
-# Task 2: Create a function that returns a Fibonacci sequence of length n (seed of 1)
+# Task 2: Create a function that returns a Fibonacci sequence of length n (seed of 1) and print the result to the console
 def fbnq(n): # Define function
     aa=np.zeros(n) # Generate array of zeros with length n to fill
     aa[0]=1 # Seed F1
